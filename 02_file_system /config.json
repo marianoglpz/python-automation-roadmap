@@ -1,0 +1,8 @@
+{
+    "company": "Tech Solutions",
+    "departments": [
+        {"name": "Sistemas", "employee": 12, "budget": 45000},
+        {"name": "Ventas", "employee": 8, "budget": 30000},
+        {"name": "Recursos Humanos", "employee": 4, "budget": 15000}
+    ]
+}
